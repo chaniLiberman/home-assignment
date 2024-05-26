@@ -115,7 +115,7 @@ const HomePage = () => {
                 right: "1rem",
                 width: "5rem",
                 height: "5rem",
-                fontSize: "1.3rem",
+                fontSize: "1.2rem",
                 color: "#fff",
                 zIndex: 1000
             }}
